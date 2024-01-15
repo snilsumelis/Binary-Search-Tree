@@ -2,11 +2,11 @@
 ## Overview:
 This Python script demonstrates the creation of a Binary Search Tree (BST) from a given array. The script defines a TreeNode class to represent each node in the tree, and it includes functions for inserting elements into the tree and printing the tree in an inorder traversal.
 
-## sage:
+## Usage:
 Define TreeNode Class:
 The TreeNode class is used to represent each node in the Binary Search Tree. It contains attributes for the left child, right child, and the value of the node.
 
-##Insert Function:
+## Insert Function:
 The insert function inserts a new element into the BST while maintaining the BST properties.
 
 ## Print Tree Function:
